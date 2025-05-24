@@ -1,5 +1,6 @@
 # xorkey-crackme
 Simple crackme challenge I made in C, sprinkled with nice ASCII art. Made with Visual Studio 2019, uploaded on [crackmes.one](https://crackmes.one/crackme/67839eb34d850ac5f7dc50bd).
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ![crackmes.one post](crackmesone-post.png)
 
