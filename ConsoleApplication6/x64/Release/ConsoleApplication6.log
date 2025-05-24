@@ -1,0 +1,7 @@
+﻿  ConsoleApplication6.c
+C:\Users\tamar\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.c(18,15): warning C4013: 'system' undefined; assuming extern returning int
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication6.vcxproj -> C:\Users\tamar\source\repos\ConsoleApplication6\x64\Release\ConsoleApplication6.exe
