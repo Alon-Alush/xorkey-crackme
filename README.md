@@ -13,7 +13,7 @@ Your goal is to find the correct password so that it prints the success message.
 
 # Anti patch
 
-One cool feature I implemented in this crackme is anti-patching.
+One cool feature I implemented in this crackme is anti-patching with a CRC-32 algorithm.
 
 If you patch the `.exe` file with let's say, HxD:
 
@@ -30,5 +30,7 @@ Patch detected! Your program has been invalidated.
 Press any key to continue . . .
 ```
 
-Very simple of course, but good challenge for beginner reverse engineers.
+Very simple, of course, but good challenge for beginner reverse engineers.
+
+
 
